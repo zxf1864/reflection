@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<MainModuleList type="generally">
+<module className="com.example.administrator.reflection.module.ActivityModule1"  des="页面1"/>
+<module className="com.example.administrator.reflection.module.ActivityModule2"  des="页面2"/>
+ </MainModuleList>
+
+
+
+</root>
